@@ -1,0 +1,15 @@
+{
+  "dtaId": 1770976186986,
+  "channels": [
+    "https://live.zbds.top/tv/iptv4.m3u",
+    "https://iptv-org.github.io/iptv/index.m3u"
+  ],
+  "dataValueProxy": "1",
+  "timeoutSwitchLine": "15",
+  "leftRightSelect": true,
+  "fontScale": "1",
+  "appFontFamily": "{\"id\":\"0\",\"font_name\":\"系统\",\"font_key\":\"system\",\"font_type\":\"ttf\"}",
+  "bingBg": false,
+  "autoUpdate": false,
+  "lightVersionCheck": true
+}
